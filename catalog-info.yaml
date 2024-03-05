@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: 'test-repo'
+  description: ""
+  annotations:
+    openedx.org/release: "secondary"
+spec:
+  owner: user:feanil
+  type: 'website'
+  lifecycle: 'production'
