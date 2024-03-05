@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: 'test-repo'
   description: ""
-  annotations:
+  annotations: null
 spec:
   owner: user:feanil
   type: 'website'
