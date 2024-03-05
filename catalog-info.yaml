@@ -4,7 +4,6 @@ metadata:
   name: 'test-repo'
   description: ""
   annotations:
-    openedx.org/release: "secondary"
 spec:
   owner: user:feanil
   type: 'website'
